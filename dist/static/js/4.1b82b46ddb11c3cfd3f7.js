@@ -1,2 +1,0 @@
-webpackJsonp([4],{J4Z1:function(t,e){},Yxfo:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"container"},[this._v("校园风采")])},staticRenderFns:[]};var s=n("VU/8")({name:"Campus",data:function(){return{}},methods:{},components:{}},a,!1,function(t){n("J4Z1")},"data-v-9d9b951a",null);e.default=s.exports}});
-//# sourceMappingURL=4.1b82b46ddb11c3cfd3f7.js.map
